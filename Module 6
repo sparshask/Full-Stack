@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Beginner Courses</title>
+<link rel="stylesheet" href="bia.css">
+<script src="scriptbia.js"></script>
+
+</head>
+
+<body>
+<header id="myHeader">
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.6 401.1">
+<!-- Your SVG content goes here -->
+</svg>
+<nav>
+<a href="#one"> rhyme time </a>
+<a href="#two">word family adventures</a>
+<a href="#three">Phonics play party </a>
+
+</nav>
+</header>
+
+<div id="page">
+<section id="one" style="background-image: url('replace_with_actual_image_url');">
+<div class="text">
+<br>
+<br>
+<br>
+<h2><b> RHYME TIME </b></h2>
+
+<P>
+Rhyme time, an enchanting linguistic dance, transcends mere words into a rhythmic tapestry, weaving threads of sound that echo and enthrall. In the realm of poetics, rhyming serves as a harmonious marriage of phonetic patterns, where words find companionship in shared endings. This artistry is not confined to structured verse but permeates diverse literary landscapes.<br>
+
+Whether in the lilting verses of a sonnet or the dynamic verses of a rap, rhyme time resonates with the human psyche, leaving an indelible mark on memory. It molds language into a melodic experience, turning mundane expressions into lyrical journeys. Through repetition and symmetry, rhymes create a musical cadence, offering an auditory feast that captivates the listener's ear.<br>
+
+Beyond its aesthetic allure, rhyme time serves as a mnemonic device, aiding in memorization and recall. Nursery rhymes, for instance, exemplify this educational facet, imparting lessons through catchy refrains. In the hands of skilled wordsmiths, rhyming becomes a powerful tool for storytelling, enhancing narrative flow and engaging the audience.<br>
+
+Yet, rhyme time is not a mere embellishment; it can evoke emotions, reinforce themes, or accentuate punchlines. It adds a layer of complexity to language, turning expression into an orchestrated symphony. From the structured elegance of a limerick to the freestyle finesse of a hip-hop verse, rhyme time remains a versatile and timeless element of linguistic artistry.><br>
+</P>
+</div>
+</section>
+
+<section id="two" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b>WORD FAMILY ADVENTURES</b></h2>
+
+<p>
+Embark on linguistic journeys, where words form a familial tapestry—a lexical odyssey uniting the diverse members of language. Each word, a unique character, contributes to the narrative, weaving a rich story that unfolds in the vast landscape of expression. These lexical adventures span the syntactic terrains, exploring the grammar and syntax that bind words together in harmonious unity.<br>
+
+In the family of words, synonyms stand as siblings, sharing similarities yet possessing distinctive nuances. Antonyms, like playful counterparts, engage in a dance of contrasts, adding dynamic tension to the linguistic narrative. Together, they create a semantic palette, painting the canvas of communication with vivid hues.<br>
+
+Verbs, the energetic protagonists, drive the action, propelling sentences forward with purpose and vigor. Adjectives and adverbs, the descriptive allies, embellish the tale, providing vivid details and enhancing the imagery. Nouns anchor the narrative, serving as the steadfast pillars around which the story revolves.<br>
+
+These word family adventures transcend the mundane, inviting exploration into the realms of creativity and expression. Together, the words embark on syntactic voyages, navigating the seas of prose and verse. Whether in the lyrical landscapes of poetry or the structured territories of prose, these linguistic kin foster a sense of unity and coherence, turning the written page into a familial saga of lexical exploration.<br>
+</p>
+<h3>VIDEO ON WORD FAMILY ADVENTURES</h3>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkUunCjP3Hs?si=auvHgJgKiDROozYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</section>
+
+<section id="three" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b> PHONICS PLAY PARTY </b></h2>
+<p>Phonics play time transforms language into a joyful exploration, a symphony of sounds that engages young learners in the enchanting dance of phonetics. This educational adventure is a gateway to literacy, a playful journey where children discover the magical connection between letters and the spoken word.<br>
+
+In the realm of phonics play, each letter becomes a character in an animated story, bringing the alphabet to life. The rhythmic cadence of phonemes, the smallest units of sound, creates a vibrant melody as children immerse themselves in the whimsical world of language acquisition.<br>
+
+Through interactive games and engaging activities, phonics play time becomes an immersive experience, fostering a love for language. It lays the foundation for decoding words, empowering young minds to unravel the mysteries of reading. From blending consonants and vowels to decoding multisyllabic words, this playful approach to phonics transforms the learning process into an exciting and accessible endeavor.<br>
+
+Phonics play time isn't merely an academic exercise; it's a social adventure where children share the joy of discovery. As they navigate through phonetic landscapes, they develop not only literacy skills but also communication and collaboration abilities. This multidimensional approach to phonics transcends rote learning, infusing the educational journey with the spirit of curiosity and creativity.<br>
+
+In the enchanting realm of phonics play time, learning becomes a whimsical odyssey, where the building blocks of language are assembled through laughter, exploration, and the magic of phonetic discovery.<br>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/63f2wzcqwcI?si=XLxLfimea0cReyjH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    </div>
+    Creating phonics games for kids is a fun and interactive way to help them develop their reading and language skills. Here are a few ideas for phonics games that you can incorporate into a learning environment:<br>
+
+<b>Word Bingo:</b><br>
+
+Create bingo cards with various words that follow a specific phonics rule (e.g., words with the same vowel sound).<br>
+Call out words or use phonetic sounds, and children mark the corresponding word on their bingo cards.<br>
+<b>Phonics Scavenger Hunt:</b><br>
+
+Hide objects or cards around the room, each labeled with a word or picture that corresponds to a specific phonics sound.<br>
+Kids search for the items and say the corresponding word or sound when they find them.<br>
+<b>Rhyming Puzzles:</b><br>
+
+Create puzzle pieces with rhyming words that children have to match.<br>
+For example, one piece may have "cat," and the matching piece would have "bat."<br>
+<b>Letter Sound Memory Game:</b><br>
+
+Create cards with letters on one side and corresponding images or words on the other.<br>
+Lay the cards face down and have kids flip over two cards at a time, trying to match the letter with the correct sound or word.<br>
+<b>Phonics Hopscotch:</b><br>
+
+Draw a hopscotch grid with letters or words instead of numbers.<br>
+Kids have to say the sound or word they land on as they hop through the grid.<br>
+<b>Alphabet Relay Race:</b><br>
+
+Write letters on pieces of paper and scatter them around a designated area.<br>
+Call out a phonetic sound, and kids have to find the letters that make that sound and bring them back to a central point.<br>
+<b>Phonics Board Games:</b><br>
+
+Create a board game where players move by correctly identifying words or sounds.<br>
+Include challenges like reading a word, finding a rhyming word, or saying a word that starts with a specific letter.<br>
+<b>Interactive Phonics Apps:</b><br>
+
+There are various phonics apps available that make learning fun for kids. Look for apps that focus on letter sounds, blending, and word recognition.<br>
+<b>Story Building with Phonics:</b><br>
+
+Encourage kids to create their own short stories using words that follow a particular phonics rule.<br>
+This activity enhances both reading and creative writing skills.<br>
+<b>Phonics Song Karaoke:</b><br>
+Play popular phonics songs or rhymes and encourage kids to sing along.<br>
+Provide lyrics or use videos with on-screen lyrics for an interactive karaoke experience.<br>
+
+
+</div>
+</section>
+
+</div>
+</body>
+
+</html>
