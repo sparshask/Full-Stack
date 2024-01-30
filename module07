@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Beginner Courses</title>
+    <link rel="stylesheet" href="bia.css">
+    <script src="scriptbia.js"></script>
+   
+</head>
+
+<body>
+    <header id="myHeader">
+        <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.6 401.1">
+            <!-- Your SVG content goes here -->
+        </svg>
+        <nav>
+            <a href="#one"> shape discovery </a>
+            <a href="#two">colorful world exploration </a>
+            <a href="#three">shapes and colour gallery </a>
+            
+        </nav>
+    </header>
+
+    <div id="page">
+        <section id="one" style="background-image: url('replace_with_actual_image_url');">
+            <div class="text">
+                <br>
+                <br>
+                <br>
+                <h2><b> SHAPE DISCOVERY  </b></h2>
+                
+                <P>
+                    Shapes discovery unfolds as a captivating exploration, where young minds embark on a visual adventure to unravel the secrets of geometric forms. This educational journey transcends mere identification, inviting children to understand the world through the lens of shapes.<br>
+
+The discovery of shapes begins with foundational figures like circles, squares, and triangles, serving as the building blocks of spatial awareness. As children manipulate and combine these shapes, they not only enhance fine motor skills but also develop a fundamental understanding of how shapes fit together like pieces of a puzzle.<br>
+
+Geometry becomes a playground of discovery, where rectangles transform into doors, and circles become wheels in the imaginative landscape of a child's mind. This tactile engagement with shapes bridges the gap between abstract concepts and tangible experiences, fostering a deeper comprehension of the surrounding environment.<br>
+
+Through hands-on activities and visual aids, shapes discovery becomes an interactive process. From identifying shapes in everyday objects to creating art with geometric designs, children learn to appreciate the ubiquity and diversity of shapes in the world around them. This visual literacy lays the groundwork for more advanced mathematical concepts in the future.<br>
+
+Shapes discovery is not confined to the classroom; it extends into outdoor spaces, where nature itself becomes a canvas of geometric wonders. Whether finding triangles in tree branches or circles in flower petals, children embark on a continuous journey of exploration, connecting abstract mathematical concepts with the beauty inherent in the world's diverse shapes.<br> 
+                </P>
+            </div>
+        </section>
+
+        <section id="two" style="background-image: url('replace_with_actual_image_url');">
+            <div>
+                <br>
+                <br>
+                <br>
+                <h2><b>COLOURFUL WORLD EXPLORATION </b></h2>
+                
+                <p>
+                    Embark on a colorful world exploration, where vibrant hues paint the canvas of experiences and emotions. This journey transcends the visual, encompassing the entire spectrum of feelings evoked by the myriad shades that adorn our surroundings.<br>
+
+In this kaleidoscopic adventure, colors become storytellers, conveying moods, expressions, and cultural nuances. The warm embrace of red, the serene tranquility of blue, and the vivacity of yellow collectively compose a visual language that communicates beyond words. As explorers of this colorful world, we decode the symbolism and significance embedded in each hue.<br>
+
+From the radiant sunsets that paint the sky with a palette of oranges and pinks to the lush greens of nature's tapestry, the colorful world unfolds as a sensory symphony. Children, in particular, revel in the magic of this exploration, discovering the joy of creativity through crayons, paints, and a spectrum of artistic mediums.<br>
+
+Beyond aesthetics, the colorful world is a reflection of diversity, celebrating the rich tapestry of cultures and traditions across the globe. The exploration of different color palettes becomes a bridge connecting people and fostering an appreciation for the uniqueness that each culture contributes to the mosaic of humanity.<br>
+
+In this exploration, color isn't just a visual element; it's an emotional compass guiding us through the tapestry of life. It invites us to appreciate the beauty in diversity, to express ourselves creatively, and to find inspiration in the kaleidoscope of experiences that define our colorful world.<br>
+            </p>
+                <h3>COLOURFUL WORLD EXPLORATION</h3>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/s926qbU6ZoE?si=VqX2IKUmt0suYG1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>  
+        </section>
+
+        <section id="three" style="background-image: url('replace_with_actual_image_url');">
+            <div>
+                <br>
+                <br>
+                <br>
+                <h2><b> SHAPES AND COLOUR GALLERY  </b></h2>
+                <p>
+                    Enter a mesmerizing gallery where shapes and colors converge, creating an enchanting visual tapestry. Geometric wonders and a kaleidoscope of hues harmonize, turning each exhibit into a celebration of form and color.<br>
+
+Shapes, from the simplicity of circles to the structured elegance of squares, stand as the building blocks of this artistic display. As you stroll through the gallery, witness the interplay of triangles, rectangles, and curves, orchestrating a symphony of spatial aesthetics. Each shape carries its own story, contributing to the diverse narrative of the exhibition.<br>
+
+Colors infuse vibrancy into the gallery, transforming it into a spectrum of emotions. Reds exude passion, blues evoke tranquility, and yellows radiate warmth. The fusion of these expressive colors with geometric precision creates a visual language, allowing observers to feel the energy and emotion embedded in each piece.<br>
+
+This gallery is a journey through the endless possibilities of creativity, where artists use shapes and colors to convey ideas, emotions, and abstract concepts. Abstract art dances with vivid palettes, while representational pieces capture the essence of the world around us.<br>
+
+Visitors become participants, engaging in a dialogue with the exhibits, interpreting the meaning behind the arrangements. It's a space where creativity knows no bounds, and each observer finds a personal connection with the shapes and colors that resonate with them.
+
+In this dynamic gallery, the marriage of shapes and colors transcends the visual to become a multisensory experience, inviting you to explore, interpret, and appreciate the endless expressions of artistry.<br>
+
+<b>Shapes:</b><br>
+
+<b>1.Use Everyday Objects:</b> Point out and identify different shapes in everyday objects around the house or during a walk. For example, a clock is a circle, a door is a rectangle, and a stop sign is an octagon.<br>
+
+<b>2.Shape Sorting Games:</b> Provide kids with various objects or cutouts of shapes. Have them sort these objects based on their shapes. This can be done with simple household items like blocks, toys, or even pictures.<br>
+
+<b>3.Drawing and Tracing: </b>Encourage kids to draw and trace different shapes. Use shape templates or stencils to make it easier for them. This not only helps with shape recognition but also develops fine motor skills.<br>
+
+<b>4.Outdoor Play:</b> Take advantage of outdoor spaces to explore shapes in nature. For instance, rocks might be circles or ovals, leaves can be triangles, and so on.<br>
+
+<b>Colors:</b><br>
+
+<b>Color Sorting:</b> Provide a variety of colored objects (toys, blocks, buttons) and have kids sort them by color. This hands-on activity enhances color recognition skills.<br>
+    
+<b>Color Mixing: </b>Teach primary colors and how they can be mixed to create secondary colors. Use simple art activities where kids can experiment with mixing colors using paint or colored markers.<br>
+
+<b>Color Scavenger Hunt: </b>Create a scavenger hunt at home or in the backyard where kids need to find objects of different colors. This is a great way to reinforce color names.<br>
+
+<b>Storytelling with Colors:</b> Create stories or narratives where each character or element is associated with a specific color. This makes learning colors more engaging and memorable.<br>
+
+<b>Art and Crafts:</b> Incorporate color recognition into art and craft activities. Provide a variety of colored paper, paints, and other materials for creative expression.<br>
+
+<b>Coloring Books and Apps:</b> Utilize coloring books or educational apps that focus on colors. These resources often use interactive methods to teach and reinforce color concepts.</p>  
+
+            </div>
+    </div>
+</body>
+
+</html>
