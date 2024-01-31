@@ -1,0 +1,184 @@
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+    line-height: 1.6;
+    background: rgba(249, 187, 230);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    }
+    
+    /* Styles for header and navigation */
+    header {
+    z-index: 99999;
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgba(249, 187, 230);
+    padding: 10px 0;
+    }
+    
+    header #logo {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+    opacity: 1;
+    transition: 0.3s all cubic-bezier(0.075, 0.82, 0.165, 1) 0.6s;
+    }
+    
+    header nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    header nav a {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    display: block;
+    padding: 10px 20px;
+    line-height: 1;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+    transition: 0.3s all cubic-bezier(0.075, 0.82, 0.165, 1) 0.6s;
+    }
+    
+    /* Sticky header */
+    header.sticky {
+    position: fixed;
+    top: 0;
+    animation: slideDown 0.5s forwards;
+    }
+    
+    @keyframes slideDown {
+    from {
+    transform: translateY(-100%);
+    }
+    
+    to {
+    transform: translateY(0);
+    }
+    }
+    
+    /* Main page content */
+    #page {
+    position: relative;
+    padding-top: 80px; /* Adjust the value based on your header height */
+    }
+    
+    
+    section {
+    display: flex;
+    min-height: 100vh;
+    padding: 50px;
+    justify-content: center;
+    position: relative;
+    margin-top: 60px; /* Adjust the value based on your header height */
+    }
+    
+    
+    section::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #cedef0;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    }
+    
+    section h1 {
+    font-size: 120px;
+    margin: 0;
+    z-index: 2;
+    position: relative;
+    }
+    
+    .appLogo {
+    text-align: center;
+    color: #fff;
+    }
+    
+    #mainHeader {
+    z-index: 99999;
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    top: 60px;
+    background-color: #cedef0;
+    padding: 10px 0;
+    }
+    
+    /* Header styles */
+    .header {
+    position: sticky;
+    text-align: center;
+    margin-bottom: 15px;
+    }
+    
+    /* Logo/image styles */
+    .header .image {
+    background-image: url('file:///C:/Users/kadab/Downloads/BB%20Logo.png');
+    background-size: cover;
+    width: 65px;
+    height: 65px;
+    margin-right: 10px;
+    border: 1px solid red;
+    }
+    
+    /* Text/name styles */
+    .header .text {
+    font-size: x-large;
+    font-family: sans-serif;
+    margin-left: 10px;
+    text-align: center;
+    }
+    
+    .BB {
+    padding: 10px;
+    position: sticky;
+    }
+    
+    .content {
+    padding: 20px;
+    margin-top: 50px;
+    }
+    
+    /* Updated styles for audio elements */
+    section h3,
+    section audio {
+    display: block;
+    margin-top: 10px; /* Adjust as needed */
+    }
+    section div.audio-container {
+    display: block;
+    
+    }
+    body {
+    margin: 0;
+    }
+    
+    .video-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    }
+    
+    iframe {
+    width: 60%; /* Adjust the width as needed */
+    height: 60vh; /* Adjust the height as needed */
+    }
