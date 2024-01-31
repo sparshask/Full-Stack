@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Beginner Courses</title>
+<link rel="stylesheet" href="bia.css">
+<script src="scriptbia.js"></script>
+
+</head>
+
+<body>
+<header id="myHeader">
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.6 401.1">
+<!-- Your SVG content goes here -->
+</svg>
+<nav>
+<a href="#one">number introduction</a>
+<a href="#two">basic addition and substraction</a>
+<a href="#three">numbers in everyday life </a>
+</header>
+
+<div id="page">
+<section id="one" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b>NUMBERS AND COUNTING FUN </b></h2><br>
+<h4>number introduction</h4><br>
+
+<p>
+<b>The Enchanted Grove: </b>Explore a secret forest where trees glow, and friendly creatures are ready to play hide-and-seek!<br><br>
+
+<b>celestial Citadel:</b> Soar high to a castle in the sky where walls light up with magical paintings during sparkling starry nights.<br><br>
+
+<b>Crystal Caverns:</b> Dive into an underground cave filled with crystals that shimmer in every color - it's like a magical treasure hunt!<br><br>
+
+<b>Whispering Meadows:</b> Take a walk in a meadow where the grass shares secrets, and flowers change colors, just like a magical mood ring.<br><br>
+
+<b>Elemental Nexus:</b> Jump onto floating islands connected by magical bridges and meet creatures who can control wind, fire, water, and earth!<br><br>
+
+<b>Timeless Library of Arcana:</b> Step into a never-ending library where books chat and tell stories about wizards, dragons, and friendly monsters.<br><br>
+
+<b>Aurora Borealis Haven:</b> Play in a snowy wonderland where the sky throws a big colorful dance party, and ice sculptures come alive!<br><br>
+
+<b>Ethereal Lagoon:</b> Splash around in a magical pond with sparkly trees! Follow stepping stones made of enchanted glass to a tree that twinkles like stars.<br><br>
+
+<b>Shadowed Mirage Desert:</b> Explore a sandy desert that loves playing tricks! Spot mirages of castles and dragons and discover a surprise oasis.<br><br>
+
+<b>Elemental Observatory:</b> Climb a mountain to reach a special observatory. Look through magical telescopes to see other worlds and maybe even say hello to friendly aliens!<br><br>
+
+Get ready for a world full of magic and exciting adventures in these enchanting places, where every moment is a new surprise<br><br>
+</p>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HW3rnCvicu4?si=djQuRWHV0k3MbTc_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
+</section>
+
+<section id="two" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b>BASIC ADDITION AND SUBSTRACTION </b></h2><br>
+
+<p><b>Basic Addition:</b><br>
+<b> Definition:</b><br>
+
+Addition is a fundamental arithmetic operation that combines two or more numbers to find their total or sum.<br>
+<b>Notation:</b><br>
+
+The plus sign (+) is used to denote addition.<br>
+Examples:<br>
+
+5<br>
++<br>
+3<br>
+=<br>
+8<br>
+5+3=8<br>
+12<br>
++<br>
+7<br>
+=<br>
+19<br>
+12+7=19<br>
+2<br>
++<br>
+9<br>
+=<br>
+11<br>
+2+9=11<br>
+Key Concepts:<br>
+
+The order of numbers does not affect the sum: <br>
+a<br>
++<br>
+b<br>
+=<br>
+b<br>
++<br>
+a<br>
+a+b=b+a.<br>
+Adding zero to any number gives the number itself: <br>
+a<br>
++<br>
+0<br>
+=<br>
+a<br>
+a+0=a.<br>
+<b>Basic Subtraction:</b><br>
+<b>Definition:</b><br>
+
+Subtraction is the arithmetic operation of finding the difference between two numbers.<br>
+<b>Notation:</b><br>
+
+The minus sign (-) is used to denote subtraction.<br>
+Examples:<br>
+
+8<br>
+-<br>
+3<br>
+=<br>
+5<br>
+8-3=5<br>
+15<br>
+-<br>
+6<br>
+=<br>
+9<br>
+15-6=9<br>
+10<br>
+-<br>
+4<br>
+=<br>
+6<br>
+10-4=6<br>
+Key Concepts:<br>
+
+The order of subtraction matters: <br>
+a<br>
+-<br>
+b<br>
+a-b is not necessarily equal to <br>
+b<br>
+-<br>
+a<br>
+b-a.<br>
+Subtracting zero from any number gives the number itself: <br>
+a<br>
+-<br>
+0<br>
+=<br>
+a<br>
+a-0=a<br>
+<b>Additional Tips:</b><br>
+<b>Number Line:</b> Visualizing addition as moving to the right on a number line and subtraction as moving to the left can be helpful.<br>
+
+<b>Counting and Objects:</b> For beginners, counting objects (like candies or toys) can aid in understanding addition, while removing objects simulates subtraction.<br>
+
+<b>Real-world Applications:</b> Understanding the practical uses of addition and subtraction, such as counting money or measuring ingredients for a recipe, can make these concepts more tangible.<br>
+
+These basics serve as a foundation for more advanced mathematical concepts and problem-solving. If you have any specific questions or if you'd like more information, feel free to ask!<br>
+</p><br>
+<h3>VIDEO ON OPERATION</h3>
+<div class="video-container">
+<iframe width="400" height="315" src="https://www.youtube.com/embed/rPVdItitgIU?si=DBshsp-0_TC9Ameh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+<section id="three" style="background-image: url('replace_with_actual_image_url');">
+<div>
+
+<br>
+<br>
+<br>
+<h2><b> NUMBERS IN EVERYDAY LIFE</b></h2><br>
+<p>Numbers play a crucial role in our everyday lives, influencing various aspects of our routines and decisions. Here are some ways in which numbers are integrated into daily life:<br>
+
+<b>Time:</b><br> We use numbers to tell time, organize our schedules, and plan our daily activities. Clocks, watches, and digital devices are all based on numerical time representations.<br>
+
+<b>Money:</b> <br>Numbers are fundamental in financial transactions. From budgeting and calculating expenses to making purchases and managing income, numerical values are at the core of financial decisions.<br>
+
+<b>Quantities and Measurements:</b><br> Numbers are used to measure quantities such as weight, length, volume, and temperature. Whether cooking, building, or shopping, numerical measurements guide our choices and actions.<br>
+
+<b>Communication and Addresses: </b><br>Phone numbers, addresses, postal codes, and IP addresses are numerical identifiers that facilitate communication and help locate individuals, businesses, and devices.<br>
+
+<b>Mathematics in Daily Tasks: </b><br>Basic arithmetic, including addition, subtraction, multiplication, and division, is used in tasks such as grocery shopping, cooking, and calculating discounts.<br>
+
+<b>Health and Fitness:</b><br> Numbers play a role in monitoring health, such as tracking weight, measuring blood pressure, or counting calories. Exercise routines often involve sets, repetitions, and durations represented by numbers.<br>
+
+
+<b>Ages and Dates:</b><br> Numbers represent our ages, birthdays, and important dates. They help us celebrate milestones, plan events, and keep track of anniversaries.<br>
+
+<b>Technology and Codes:</b><br> Numbers are used in various technologies, including passwords, PIN codes, and computer programming. Numeric codes secure access to devices and online accounts.<br>
+
+<b>Transportation:</b> <br>Numbers are essential for navigating transportation systems. Bus routes, flight numbers, and vehicle speeds are all expressed numerically.<br>
+
+<b>Scores and Rankings:</b> <br>In sports, education, and gaming, numbers are used to represent scores, grades, rankings, and achievements. They provide a quantitative measure of performance.<br>
+
+<b>Weather and Statistics:</b><br> Numerical data is used to convey weather forecasts, analyze trends, and present statistical information in fields ranging from economics to sports.<br>
+
+<b>Social Media Metrics: </b><br>In the digital age, numbers play a significant role in social media. Followers, likes, shares, and comments are numerical indicators of online interactions and influence.<br>
+
+Understanding and interpreting numbers is a fundamental skill that empowers individuals to make informed decisions and navigate the complexities of modern life.</p>
+
+<br>
+
+</div>
+</div>
+</section>
+</body>
+
+</html>
