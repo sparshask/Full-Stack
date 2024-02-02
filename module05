@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Beginner Courses</title>
+<link rel="stylesheet" href="bia.css">
+<script src="scriptbia.js"></script>
+</head>
+
+<body>
+<header id="myHeader">
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.6 401.1">
+<!-- Your SVG content goes here -->
+</svg>
+<nav>
+<a href="#one">artistic exploration</a>
+<a href="#two">crafty creations</a>
+<a href="#three">introduction to basic writing</a>
+</nav>
+</header>
+
+<div id="page">
+<section id="one" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b>CREATIVE EXPRESSION AND BASIC WRITING</b></h2><br>
+<h4>ARTISTIC EXPLORATION</h4>
+
+<p>
+Artistic exploration is a journey of creative discovery, self-expression, and experimentation in
+various forms of artistic expression. It involves pushing boundaries, trying new techniques, and
+embracing the freedom to explore without strict rules. Here are some aspects of artistic
+exploration:<br>
+
+<b>Medium Exploration:</b><br>
+
+Artists experiment with various mediums such as paint, charcoal, ink, digital tools, clay, or found
+objects. Each medium offers unique possibilities for artistic expression.<br>
+
+<b>Technique Variation:</b><br>
+
+Trying different techniques, from traditional methods to avant-garde approaches, allows artists to
+expand their skills and discover new ways to convey their ideas.<br>
+
+<b>Color Play:</b><br>
+
+Exploring color palettes and combinations can evoke different emotions and moods. Artists experiment
+with tones, shades, and hues to create visual impact and harmony.<br>
+Artistic exploration for kids is a wonderful way to foster creativity, imagination, and self-expression. Here are some ideas and activities to inspire artistic exploration in children:<br>
+
+<b>Free Drawing Time:</b><br>
+
+Provide children with a variety of art supplies such as colored pencils, markers, crayons, watercolors, and paper.<br>
+Encourage them to draw whatever comes to mind without any specific instructions or guidelines.<br>
+<b>Nature Art:</b><br>
+Take the kids outdoors to collect leaves, flowers, rocks, and sticks.<br>
+Use these natural materials to create art, like making leaf rubbings, flower collages, or rock paintings.<br>
+<b>Collage Creations:</b><br>
+
+Gather old magazines, newspapers, and colored paper.<br>
+Let the kids cut out images and create collages on a large piece of paper or cardboard.<br>
+<b>Storybook Illustrations:</b><br>
+
+Have children choose their favorite story or create their own short narrative.<br>
+Ask them to illustrate the story using drawings or paintings.<br>
+<b>Found Object Sculptures:</b><br>
+
+Collect various recycled materials and found objects (cardboard, bottle caps, paper rolls).<br>
+Let kids use these items to create sculptures or 3D artwork.<br>
+<b>Painting with Different Tools:</b><br>
+
+Experiment with painting using unconventional tools such as sponges, cotton swabs, or even vegetables like sliced bell peppers.<br>
+<b>Shadow Play:</b><br>
+
+Use a lamp to cast shadows on a wall or large sheet of paper.<br>
+Kids can trace the shadows and then fill in the shapes with colors or patterns.<br>
+<b>Body Tracing:</b><br>
+
+Have kids lie down on a large sheet of paper and trace their bodies.<br>
+They can then decorate and paint their life-size self-portraits.<br>
+<b>Music and Art Fusion:</b><br>
+
+Play different styles of music and ask kids to create art that reflects the emotions or images they associate with the music.<br>
+<b>Themed Art Days:</b><br>
+
+Introduce themed art days, like "Underwater World" or "Outer Space."<br>
+Kids can create art inspired by the chosen theme using various materials.<br>
+<b>Mood Boards:</b><br>
+
+Encourage kids to create mood boards with images, colors, and words that represent their feelings or interests.<br>
+<b>Group Collaborations:</b>.<br>
+
+Foster teamwork by having kids work on a large group project, like a mural or a collaborative sculpture.<br>
+
+<br>
+<h3>VIDEO ON ARTISTIC EXPLORATION</h3>
+
+<div class="video-container">
+<iframe width="400" height="315"
+src="https://www.youtube.com/embed/cPGw3zbfNZI?si=DjClLFIuuarEjDVm"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</p>
+</div>
+</section>
+
+<section id="two" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b>CRAFTY CREATION </b></h2><br>
+
+<p>Crafty creation is the art of making imaginative and hands-on projects using various materials, often
+for decorative or functional purposes. It's a form of artistic expression that allows individuals to
+unleash their creativity, experiment with different techniques, and produce unique handmade items.
+Here are some aspects of crafty creation:<br>
+
+<b>Materials Galore:</b><br>
+
+Crafters use a diverse range of materials, including paper, fabric, wood, beads, clay, yarn, and
+recycled items. The possibilities are limited only by one's imagination.<br>
+
+<b>DIY Home Decor:</b><br>
+
+Crafty creations often find their way into homes as personalized decorations. Handmade items like
+wall art, vases, and candles add a unique touch to living spaces.<br>
+
+<b>Seasonal and Holiday Crafts:</b><br>
+
+Crafters embrace the spirit of seasons and holidays, creating themed decorations, ornaments, and
+gifts. It's a way to celebrate and share joy with others.<br>
+
+<b>Upcycling and Recycling:</b><br>
+
+Crafty creators often repurpose old or discarded items, turning them into something new and
+beautiful. This sustainable approach adds an eco-friendly dimension to the crafting process.<br>
+
+<b>DIY Gifts:</b><br>
+
+Handmade gifts convey thoughtfulness and care. Crafty individuals create personalized gifts such as
+handmade cards, knitted scarves, or custom jewelry for special occasions.<br>
+
+<b>Crafting with Kids:</b><br>
+
+Crafty creation is a popular activity for children, encouraging them to explore their creativity.
+Simple projects like paper crafts, finger painting, and DIY ornaments are great for young crafters.<br>
+
+<b>Embroidery and Sewing:</b><br>
+
+The art of needlework, including embroidery and sewing, allows crafters to create intricate designs
+on fabric. This can result in personalized clothing, accessories, and home decor items.<br>
+
+<b>Paper Crafting:</b><br>
+
+From origami and scrapbooking to card-making and paper quilling, paper is a versatile medium for
+crafty creations. Crafters can produce delicate and intricate designs using this simple material.<br>
+
+<b>Knitting and Crocheting:</b><br>
+
+Yarn enthusiasts engage in knitting and crocheting to create cozy blankets, scarves, hats, and
+more. These crafts require skill and patience but result in warm and functional items.<br>
+
+<b>DIY Jewelry:</b><br>
+
+Crafters design and assemble their own jewelry using beads, wire, and other materials. This allows
+for the creation of unique, wearable pieces that reflect personal style.<br>
+
+<b>Candle and Soap Making:</b><br>
+
+Crafty creators delve into the world of scents and textures by making their own candles and soaps.
+This craft combines creativity with a touch of science.<br>
+
+<b>Crafting Communities:</b><br>
+
+Crafty creation often fosters communities where individuals share ideas, tips, and inspiration.
+Online platforms and local crafting groups provide spaces for collaboration and support.<br>
+
+Crafty creation is not just about the end result but the joy of the creative process itself. It's a
+fulfilling way to express individuality, share gifts from the heart, and contribute to a world
+filled with handmade charm.</p><br>
+
+<h3>VIDEO ON CRAFTY CREATION</h3>
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vLzwpRG2hc0?si=_Qa65QcDgKepVcZP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+<section id="three" style="background-image: url('replace_with_actual_image_url');">
+<div>
+
+<br>
+<br>
+<br>
+<h2><b>INTRODUCTION TO BASIC WRITING</b></h2>
+<p>Welcome to the Magical World of Writing! 🚀✨<br>
+
+Hey there, budding wordsmiths! Writing is like having a superpower that lets you share stories,
+express feelings, and explore amazing worlds—all using your imagination! Let's dive into the
+exciting adventure of basic writing:<br>
+
+<b>1. Words Are Friends:</b><br>
+Imagine letters as magical friends that, when combined, create words. Learning your ABCs is like
+unlocking the secret code to a world of wonders!<br>
+
+<b>2. Start with Scribbles:</b><br>
+Before writing letters, let your imagination run wild with scribbles and doodles. Your unique marks
+are the first steps in becoming an awesome writer!<br>
+
+<b>3. Meet the ABC Superheroes:</b><br>
+Each letter has its own superpower. A is for Apple, B is for Bear—these superheroes join forces to
+make words and tell fantastic tales!<br>
+
+<b>4. Crafty Sentences:</b><br>
+Sentences are like magical spells! They have a beginning, a middle, and an end. Playing with words
+helps create enchanting sentences that tell stories.<br>
+
+<b>5. Punctuation Party:</b><br>
+Meet the Punctuation Pals—Period, Question Mark, and Exclamation Point! They add rhythm and
+excitement to your writing. Try using them to make your words dance!<br>
+
+<b>6. Building Paragraph Castles:</b><br>
+Just like building blocks create castles, paragraphs are your building blocks for stories. Each
+paragraph is like a room in your writing castle!<br>
+
+<b>7. Grammar Adventures:</b><br>
+Grammar is your trusty guide on this writing quest. It helps your words make sense and lets your
+stories shine bright!<br>
+
+<b>8. Storytelling Magic:</b><br>
+Ready to be a storytelling wizard? Begin with an exciting introduction, share amazing details in
+the middle, and wrap it up with a spellbinding ending!<br>
+
+<b>9. Illustrate Your Imagination:</b><br>
+Drawing pictures goes hand in hand with writing. Your illustrations bring your stories to life,
+making them even more magical!</p>
+<br>
+<h3>VIDEO ON INTRODUCTION TO BASIC WRITING </h3>
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i6BTfNQiXXI?si=Z3vnLXy7zGLMz1pI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+</div>
+</body>
+
+</html>
