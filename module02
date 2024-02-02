@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Beginner Courses</title>
+<link rel="stylesheet" href="bia.css">
+<script src="scriptbia.js"></script>
+<script src="game.js"></script>
+</head>
+<body>
+<header id="myHeader">
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.6 401.1">
+<!-- Your SVG content goes here -->
+</svg>
+<nav>
+<a href="#one"> everyday Items Exploration</a>
+<a href="#two">Animal kingdom safari</a>
+<a href="#three">colors carnival</a>
+<a href="#four">simple pharses fiesta</a>
+</header>
+
+<div id="page">
+<section id="one" style="background-image: url('replace_with_actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b> EVERYDAY ITEMS EXPLORATION</b></h2>
+
+<p>
+Everyday items are often overlooked, but they play crucial roles in our daily lives. Let's explore a few common items and delve into their significance:<br>
+
+<b> 1.Pen:</b><br>
+
+<b>Function:</b> A simple writing instrument.<br>
+<b> Significance:</b> Despite the digital age, pens remain essential for jotting down notes, signing documents, and expressing creativity. They are a symbol of communication and education.<br><br>
+
+<b>2.Coffee Mug:</b><br>
+
+<b>Function:</b> Container for hot or cold beverages.<br>
+<b>Significance:</b> are more than just vessels. They often carry personal meaning, from sentimental gifts to cherished mementos. Coffee or tea rituals also make them a source of comfort.<br><br>
+
+<b>3.Keychain:</b><br>
+
+<b>Function:</b> Holds keys together.<br>
+<b>Significance:</b> Beyond utility, keychains often carry sentimental value. They can represent places visited, hobbies, or connections with loved ones.<br><br>
+<b>Watch:</b><br>
+
+<b>Function:</b> Timekeeping device.<br>
+<b>Significance:</b> In the age of smartphones, watches remain timeless accessories. They symbolize punctuality, style, and sometimes serve as family heirlooms.<br><br>
+<b>4.Wallet:</b><br>
+
+<b>Function:</b> Holds money, cards, and identification.<br>
+<b>Significance:</b> A wallet is a personal organizer. It not only safeguards valuables but can also reflect one's style and preferences.<br><br>
+<b>5.Headphones:</b><br>
+
+<b>Function:</b> Audio output device.<br>
+<b>Significance:</b> Headphones provide a private auditory experience. They are essential for music lovers, gamers, and those who seek solitude in a busy world.<br><br>
+<b>6.Notepad:</b><br>
+
+<b>Function:</b> For writing notes or sketches.<br>
+<b>Significance:</b> Notepads capture spontaneous ideas, to-do lists, or creative inspirations. They are indispensable for problem-solving and brainstorming.<br><br>
+<b>7.Tote Bag:</b><br>
+
+<b>Function:</b> Carries items.<br>
+<b>Significance:</b> Beyond being eco-friendly alternatives, tote bags often convey personal interests, beliefs, or serve as reminders of events or places.<br><br>
+<b>8.Sunglasses:</b><br>
+
+<b>Function:</b> Protects eyes from sunlight.<br>
+<b>Significance:</b> Sunglasses are not only a fashion statement but also crucial for eye health. They provide comfort and style while shielding the eyes from harmful UV rays.<br><br>
+
+<b>9.Charging Cable:</b><br>
+
+<b>Function: </b>Charges electronic devices.<br>
+<b>Significance:</b> In our tech-centric world, a charging cable is a lifeline for smartphones, tablets, and other gadgets, ensuring we stay connected and powered.<br>
+Exploring the significance of everyday items can deepen our appreciation for the seemingly mundane objects that enrich our lives in various ways.
+</p>
+</div>
+</section>
+
+<section id="two" style="background-image: url('replace_with_actual_image_url');">
+<div >
+<br>
+<br>
+<br>
+<h2><b>ANIMAL KINGDON SAFARI</b></h2>
+
+<p>Embark on a thrilling journey through the virtual landscapes of the Animal Kingdom Safari! From the regal lions of the African savannah to the enchanting bioluminescent depths of the ocean, this safari promises a glimpse into the wonders of the animal kingdom.<br>
+
+Discover the stealthy jaguars of the Amazon rainforest, witness the comical antics of kangaroos in the Australian Outback, and marvel at the resilience of polar bears in the Arctic tundra. Each habitat unveils a unique cast of characters, showcasing the diversity of life on our planet.<br>
+
+As you traverse through the lush African rainforest, encounter our closest relatives, the chimpanzees, and the mysterious okapi with its horse-like appearance. Venture into the vast desert landscapes, where camels gracefully traverse the arid terrain alongside the nimble fennec foxes.<br>
+
+Whether it's the slow-paced life of sloths in the rainforest or the thunderous footsteps of elephants on the savannah, the Animal Kingdom Safari invites you to appreciate the intricate web of life that defines our world. So, fasten your seatbelt and get ready for an immersive adventure, where every turn reveals a new chapter in the captivating story of the animal kingdom. <br>
+<b>Stop 1: Mammal Meadow</b><br>
+Our first stop is Mammal Meadow, where you'll encounter furry friends of all shapes and sizes. Look out for lions, tigers, elephants, and giraffes. Learn interesting facts about each mammal and discover how they adapt to their environments.<br>
+
+<b>Stop 2: Reptile Ridge</b><br>
+Slithering into Reptile Ridge, you'll come face to face with scaly creatures such as snakes, lizards, and turtles. Discover the unique features that make reptiles special, and find out how they survive in different climates.<br>
+
+<b>Stop 3: Avian Avenue</b><br>
+Fly over to Avian Avenue, where you can meet our feathered friends. From colorful parrots to majestic eagles, you'll learn about the various adaptations birds have for flight, as well as their diverse habitats around the world.<br>
+
+<b>Stop 4: Amphibian Alley</b><br>
+Jump into Amphibian Alley to explore the watery world of frogs, toads, and salamanders. Discover how these amphibians can live both on land and in water and learn about their important role in maintaining ecosystems.<br>
+
+<b>Stop 5: Fish Fiesta</b><br>
+Dive deep into Fish Fiesta to explore the underwater wonders of the animal kingdom. From tiny seahorses to giant sharks, you'll be amazed by the incredible diversity of fish and their unique adaptations for life in the ocean.<br>
+
+<b>Stop 6: Insect Island</b><br>
+Buzz over to Insect Island and witness the incredible world of insects. Discover the busy lives of bees, the fascinating transformation of butterflies, and the impressive strength of ants. Insects play a crucial role in the balance of nature!<br>
+
+<b>Stop 7: Primate Paradise</b><br>
+Swing into Primate Paradise to meet our closest relatives, the primates. From playful monkeys to intelligent apes, learn about the social structures and behaviors that make these animals so fascinating.<br>
+
+<b>Stop 8: Penguin Peninsula</b><br>
+Bundle up as we head to Penguin Peninsula to meet these adorable, tuxedo-clad birds. Discover how penguins thrive in cold environments and watch them waddle and swim with their unique adaptations.<br>
+
+<b>Conclusion: Conservation Corner</b><br>
+As our safari comes to an end, stop by Conservation Corner to learn about the importance of protecting our planet and the incredible animals that call it home. Find out how you can contribute to conservation efforts and make a positive impact on the Animal Kingdom.<br>
+</p><br>
+<h3>VIDEO ON ANIMAL KINGDON SAFARI</h3>
+<div class="video-container">
+<iframe width="400" height="315" src="https://www.youtube.com/embed/f75ifMJg-NU?si=e6YR_YvLE3K5gCCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+<section id="three" style="background-image: url('actual_image_url');">
+<div>
+<br>
+<br>
+<br>
+<h2><b> COLORS CARNIVAL</b></h2>
+<p>Step into a world of whimsy and wonder at the Playful Colors Carnival! This vibrant celebration is a kaleidoscope of joy, where laughter and excitement paint the air with hues of happiness.<br>
+
+From the Rainbow Carousel to the Colorful Ferris Wheel, every attraction is a burst of color, creating a visual feast for the senses. The Paint Splash Dunk Tank turns a classic game into a living canvas, and the Cotton Candy Clouds booth is a sweet retreat for those with a taste for the colorful.<br>
+
+Join the exhilarating Color Run, where every step is a splash of vibrant powders, and explore interactive color stations to unleash your creativity. As the sun sets, the carnival transforms into a Glow-in-the-Dark Dance Party, setting the night ablaze with neon lights and glowing paint.<br>
+
+The Playful Colors Carnival is a spectacle for all ages, a place where the ordinary becomes extraordinary, and where the joy of a moment is as vivid as the colors that surround you. So, come and be a part of this kaleidoscopic celebration that promises to paint your world with happiness!
+</p>
+<br>
+<h3>COLOR MATCHING GAME </h3>
+<div id="color-box"></div>
+<div id="options-container">
+<div class="color-option" onclick="checkMatch(this)"></div>
+<div class="color-option" onclick="checkMatch(this)"></div>
+<div class="color-option" onclick="checkMatch(this)"></div>
+</div>
+<div id="result"></div>
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 40px;">
+<button onclick="startGameForSection('three')">New Game</button>
+</div>
+</div>
+</section>
+<script src="game.js"></script>
+
+<section id="four" style="background-image: url('replace_with_actual_image_url');">
+<div id="text">
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2><b>SIMPLE PHARSES FIESTA</b></h2>
+<br>
+
+<P>
+<br>
+
+<b> 1."Viva la Fiesta!" </b>- Long live the party!<br>
+
+<b>2."Dance like no one's watching!"</b> - Let loose and enjoy the rhythm.<br>
+
+<b>3."Sabor Latino!"</b> - Latin flavor!<br>
+
+<b>4."Baila y disfruta"</b> - Dance and enjoy.<br>
+
+<b>5."Fiesta Time, Anytime!"</b> - Celebrate whenever the mood strikes.<br>
+
+<b>6."¡Arriba, abajo, al centro, pa' dentro!" </b>- Up, down, to the center, and cheers!<br>
+
+<b>7."Salsa under the Stars!"</b> - Dance to the rhythm of salsa music outdoors.<br>
+
+<b>8."Laughter, Love, and Fiesta Forever!" </b>- Embrace joy, love, and endless celebration.<br>
+
+<b>9."Burst of Colors, Burst of Joy!" </b>- Vibrant hues bring happiness to life.<br>
+
+<b>10"Fiesta Vibes Only!"</b> - Let the lively energy of the fiesta surround you.<br>
+<b>11."Live for the moments you can't put into words." </b>- Cherish the unforgettable moments of the fiesta.<br>
+<b>12."Dress Bright, Feel Light!"</b> - Wear colorful attire and let the positivity flow.<br>
+
+<b>13."¡Que siga la fiesta!" </b>- Let the party continue!<br>
+<b>14."Fiesta and Chill." </b>- Relaxed enjoyment of the festivities.<br>
+<b>15."¡Baila toda la noche!"</b> - Dance all night long!</P>
+</div>
+</div>
+</section>
+</body>
+
+</html>
