@@ -182,3 +182,31 @@
     width: 60%; /* Adjust the width as needed */
     height: 60vh; /* Adjust the height as needed */
     }
+
+.quiz-button-container {
+    position:absolute; /* Set the position to fixed */
+    bottom: 50px; /* Distance from the bottom of the viewport */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+    z-index: 999; /* Ensure it appears above other content */
+    text-align: center; /* Align the button to the center */
+}
+
+.quiz-button {
+    display: inline-block; /* Make the button display inline */
+    padding: 10px 20px; /* Add padding to the button */
+    background-color: rgba(249,187,230); /* Set background color */
+    color: black; /* Set text color */
+    text-align: center; /* Align text to center within button */
+    text-decoration: none; /* Remove underline from anchor element */
+    font-size: 16px; /* Set font size */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s; /* Add transition effect for background color */
+}
+
+.quiz-button:hover {
+    background-color: #45a049; /* Change background color on hover */
+}
+
