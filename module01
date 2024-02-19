@@ -185,6 +185,9 @@ Using a combination of these songs in your teaching approach can make phonics en
 
 <div class="video-container">
 <iframe width="400" height="315" src="https://www.youtube.com/embed/0wlvcm6fdRI?si=hP0HLT5Jy36uz0yJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="quiz-button-container">
+    <a href="module1quiz.html" class="quiz-button">Test your knowledge</a>
+</div>
 </div>
 </div>
 </section>
