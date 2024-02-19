@@ -1,0 +1,55 @@
+// Function to handle selecting profile picture
+function selectProfilePicture() {
+    document.getElementById('file-input').click();
+}
+
+// Function to display selected image
+document.getElementById('file-input').addEventListener('change', function() {
+    var file = this.files[0];
+    if (file) {
+        var reader = new FileReader();
+        reader.onload = function(event) {
+            var img = document.createElement('img');
+            img.src = event.target.result;
+            img.className = 'profile-pic-img';
+            var profilePic = document.querySelector('.profile-pic');
+            profilePic.innerHTML = '';
+            profilePic.appendChild(img);
+        }
+        reader.readAsDataURL(file);
+    }
+});
+
+// Function to handle form submission
+document.querySelector('form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent default form submission
+
+    // Retrieve form input values
+    var name = document.getElementById('name').value.trim();
+    var childName = document.getElementById('child_name').value.trim();
+    var gender = document.querySelector('input[name="gender"]:checked');
+    var age = document.getElementById('age').value.trim();
+    var grade = document.getElementById('grade').value.trim();
+    var school = document.getElementById('school').value.trim();
+    var email = document.getElementById('email').value.trim();
+    var place = document.getElementById('place').value.trim();
+
+    // Check if any mandatory field is empty
+    if (!name || !childName || !gender || !age || !grade || !school || !email || !place) {
+        alert("Please fill in all mandatory fields.");
+        return; // Exit function if any mandatory field is empty
+    }
+
+    // Regular expression for email validation
+    var emailRegex = /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/;
+
+    // Check if email format is valid
+    if (!emailRegex.test(email)) {
+        alert("Please enter a valid email address.");
+        return; // Exit function if email format is invalid
+    }
+
+    // If all mandatory fields are filled and email format is valid, proceed with form submission
+    // Replace this alert with your actual form submission code
+    alert("Form submitted successfully!");
+});
