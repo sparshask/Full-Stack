@@ -78,7 +78,7 @@ h1 {
       <script>
         const quizData = [
   {
-    question: 'What inspires Lila to embark on her artistic journey through Wonderwood?',
+    question: '1.What inspires Lila to embark on her artistic journey through Wonderwood?',
     
     options: ['The desire to find hidden treasures',
     'The enchanting allure of the Enchanted Grove',
@@ -87,7 +87,7 @@ h1 {
     answer: ' The enchanting allure of the Enchanted Grove',
   },
   {
-    question: 'Where does Lila find her muse for painting scenes of cosmic wonders?',
+    question: '2.Where does Lila find her muse for painting scenes of cosmic wonders?',
     options: [' The Enchanted Grove',
     'The Celestial Citadel',
     ' The Crystal Caverns',
@@ -95,7 +95,7 @@ h1 {
     answer: 'The Celestial Citadel',
   },
   {
-    question:'What is Lila s occupation?',
+    question:'3.What is Lila s occupation?',
     options: [' A wandering musician',
     'A freelance muralist',
     'A magical healer',
@@ -103,7 +103,7 @@ h1 {
     answer: ' A freelance muralist',
   },
   {
-    question: 'Which setting in Wonderwood is described as a "vast meadow where blades of grass carry ancient secrets"?',
+    question: '4.Which setting in Wonderwood is described as a "vast meadow where blades of grass carry ancient secrets"?',
     options: ['The Enchanted Grove',
     'The Celestial Citadel',
     'The Whispering Meadows',
@@ -111,7 +111,7 @@ h1 {
     answer: 'The Whispering Meadows',
   },
   {
-    question: 'What is the overarching goal of Lila s artistic endeavors?',
+    question: '5.What is the overarching goal of Lila s artistic endeavors?',
     options: [
     'To uncover hidden treasures in Wonderwood',
     'To capture the essence of her parents  memories in a mural',
@@ -121,7 +121,7 @@ h1 {
     answer: 'To capture the essence of her parents memories in a mural',
   },
   {
-    question: 'Where does Lila face occasional self-doubt during her journey?',
+    question: '6.Where does Lila face occasional self-doubt during her journey?',
     options: [' In the Crystal Caverns',
     'At the Elemental Nexus',
     'In the Celestial Citadel',
@@ -129,7 +129,7 @@ h1 {
     answer: ' Along the shifting sands of the Shadowed Mirage Desert',
   },
   {
-    question: 'What serves as a guiding light for Lila throughout her travels?',
+    question: '7.What serves as a guiding light for Lila throughout her travels?',
     options: [ 'A shimmering locket',
     'A celestial compass',
     'A magical staff',
@@ -139,7 +139,7 @@ h1 {
     answer: 'A shimmering locket',
   },
   {
-    question: 'How does Lila communicate with the world around her?',
+    question: '8.How does Lila communicate with the world around her?',
     options: [' Through telepathy',
     'Through her sketches and artwork',
     ' Through musical compositions',
@@ -147,7 +147,7 @@ h1 {
     answer: 'Through her sketches and artwork',
   },
   {
-    question: 'What do the Whispering Meadows reveal to those who visit?',
+    question: '9.What do the Whispering Meadows reveal to those who visit?',
     options: [
       'Ancient secrets carried by the wind',
       'The location of hidden treasure chests',
@@ -157,7 +157,7 @@ h1 {
     answer: 'Ancient secrets carried by the wind',
   },
   {
-    question: 'In the story, what is the significance of the mural Lila creates in Wonderwood?',
+    question: '10.In the story, what is the significance of the mural Lila creates in Wonderwood?',
     options: ['It serves as a portal to other dimensions.',
      'It captures the essence of her journey and the magic of Wonderwood.',
      'It holds the key to unlocking the Elemental Nexus.',
