@@ -78,56 +78,56 @@ h1 {
       <script>
         const quizData = [
   {
-    question: 'What is the primary focus of “Shape Discovery”?',
+    question: '1.What is the primary focus of “Shape Discovery”?',
     options: ['Exploring color theory', 'Understanding spatial awareness','Discovering geometric forms','Learning about cultural traditions'],
     answer: 'Discovering geometric forms',
   },
   {
-    question: 'Which section emphasizes the importance of visual literacy?',
+    question: '2.Which section emphasizes the importance of visual literacy?',
     options: ['Shape Discovery', 'Colorful World Exploration','Shapes and Color Gallery','None of the above'],
     answer: ' Shapes and Color Gallery',
   },
   {
-    question: ' What role do hands-on activities play in “Shape Discovery”?',
+    question: '3.What role do hands-on activities play in “Shape Discovery”?',
     options: ['Enhancing fine motor skills ','Exploring cultural traditions' ,'Learning about color symbolism' ,'None of the above' ],
     answer: 'Enhancing fine motor skills',
   },
   {
-    question: 'How does “Colorful World Exploration” celebrate diversity? ',
+    question: '4.How does “Colorful World Exploration” celebrate diversity? ',
     options: ['By exploring geometric forms' , 'Through hands-on activities' , 'By showcasing different color palettes' ,' None of the above'],
     answer: 'By showcasing different color palettes',
   },
   {
-    question: 'What is the central theme of “Shapes and Color Gallery”?',
+    question: '5.What is the central theme of “Shapes and Color Gallery”?',
     options: ['Exploring mathematical concepts','Celebrating artistic creativity',' Understanding cultural symbolism',' Learning about historical art movements'],
     answer: 'Celebrating artistic creativity',
   },
   {
-    question: 'Which section emphasizes the sensory experience of art?',
+    question: '6.Which section emphasizes the sensory experience of art?',
     options: ['Shape Discovery','Colorful World Exploration', 'Shapes and Color Gallery', 'None of the above'],
     answer: ' Shapes and Color Gallery',
   },
   {
-    question: ' How do shapes contribute to the artistic display in “Shapes and Color Gallery”?',
+    question: '7.How do shapes contribute to the artistic display in “Shapes and Color Gallery”?',
     options: [
     'By conveying emotions', 'By showcasing historical artifacts', 'By serving as building blocks','None of the above',
     ],
     answer: 'By serving as building blocks',
   },
   {
-    question: ' What emotions do colors evoke in “Colorful World Exploration”?',
+    question: '8.What emotions do colors evoke in “Colorful World Exploration”?',
     options: ['Warmth, passion, and tranquility ','Sadness, anger, and fear', 'Excitement, happiness, and curiosity ',' None of the above'],
     answer: 'Warmth, passion, and tranquility',
   },
   {
-    question: 'Which section emphasizes the interactive nature of art?',
+    question: '9.Which section emphasizes the interactive nature of art?',
     options: [
     'Shape Discovery', 'Colorful World Exploration', 'Shapes and Color Gallery','None of the above' 
     ],
     answer: 'Shapes and Color Gallery ',
   },
   {
-    question: 'What does the “Colorful World Exploration” section highlight about colors?',
+    question: '10.What does the “Colorful World Exploration” section highlight about colors?',
     options: ['Their scientific properties' , 'Their cultural significance' ,'Their historical origins' ,'None of the above'],
     answer: 'Their cultural significance',
   },
