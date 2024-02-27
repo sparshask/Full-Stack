@@ -78,56 +78,56 @@ h1 {
       <script>
         const quizData = [
   {
-    question: ' What is the primary focus of “Action Word Adventures”?',
+    question: '1. What is the primary focus of “Action Word Adventures”?',
     options: ['Exploring storytelling techniques','Developing motor skills through dance', ' Engaging children with action words and verbs','Learning about different cultures through movement'],
     answer: 'Engaging children with action words and verbs ',
   },
   {
-    question: 'How does “Action Word Adventures” encourage children to participate?',
+    question: '2.How does “Action Word Adventures” encourage children to participate?',
     options: ['By presenting complex language concepts','Through interactive experiences with characters', ' By focusing solely on visual stimulation', ' None of the above'],
     answer: 'Through interactive experiences with characters',
   },
   {
-    question: ' What is the main theme of “Expressive Movements and Dance”?',
+    question: '3. What is the main theme of “Expressive Movements and Dance”?',
     options: ['Academic achievement through dance','Emotional expression and creativity','Athletic competition and performance','None of the above'],
     answer: 'Emotional expression and creativity ',
   },
   {
-    question: 'How does “Expressive Movements and Dance” contribute to emotional intelligence? ',
+    question: '4.How does “Expressive Movements and Dance” contribute to emotional intelligence? ',
     options: ['By teaching specific dance techniques', 'Through encouraging freedom of movement and expression', 'By emphasizing competition and winning', 'None of the above'],
     answer: 'hrough encouraging freedom of movement and expression',
   },
   {
-    question: 'What role does music play in “Expressive Movements and Dance”?',
+    question: '5.What role does music play in “Expressive Movements and Dance”?',
     options: ['It serves as background noise', 'It guides movements with rhythmic beats', 'It is not mentioned in the content',' None of the above'],
     answer: 'It guides movements with rhythmic beats ',
   },
   {
-    question: 'Which section focuses on incorporating verbs into storytelling?',
+    question: '6.Which section focuses on incorporating verbs into storytelling?',
     options: ['Action Word Adventures', ' Expressive Movements and Dance', 'Both sections', 'None of the above'],
     answer: 'Action Word Adventures ',
   },
   {
-    question: '?How does “Expressive Movements and Dance” encourage individuality',
+    question: '7.How does “Expressive Movements and Dance” encourage individuality?',
     options: [ 'By enforcing strict rules and techniques', 'Through celebrating each child’s unique movements',' By discouraging creative expression',' None of the above'
     
     ],
     answer: 'Through celebrating each child’s unique movements',
   },
   {
-    question: 'What is emphasized as the primary benefit of “Action Word Adventures”?',
+    question: '8.What is emphasized as the primary benefit of “Action Word Adventures”?',
     options: [' Building physical strength','Enhancing language development and imagination', 'Improving academic performance','None of the above '],
     answer: 'Enhancing language development and imagination',
   },
   {
-    question: 'How does “Expressive Movements and Dance” contribute to cognitive development?',
+    question: '9.How does “Expressive Movements and Dance” contribute to cognitive development?',
     options: [
     'By solely focusing on physical movements','Through engaging with various concepts and themes', 'By limiting movement to specific dance styles','None of the above'
     ],
     answer:'Through engaging with various concepts and themes ' ,
   },
   {
-    question: ' What is highlighted as the ultimate goal of both sections?',
+    question: '10. What is highlighted as the ultimate goal of both sections?',
     options: ['Encouraging competitive dance', 'Building a lifelong appreciation for movement and creativity', 'Achieving perfection in dance techniques',' None of the above'],
     answer: 'Building a lifelong appreciation for movement and creativity',
   },
