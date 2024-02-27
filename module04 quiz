@@ -78,7 +78,7 @@ h1 {
       <script>
         const quizData = [
   {
-    question: 'What is the primary purpose of the Enchanted Grove, Celestial Citadel, and Crystal Caverns?',
+    question: '1.What is the primary purpose of the Enchanted Grove, Celestial Citadel, and Crystal Caverns?',
     
     options: ['Financial transactions',
     'Playing hide-and-seek',
@@ -87,7 +87,7 @@ h1 {
     answer: ' Exploring magical environments',
   },
   {
-    question: 'Which arithmetic operation is used to find the difference between two numbers?',
+    question: '2.Which arithmetic operation is used to find the difference between two numbers?',
     options: ['Multiplication',
     'Addition',
     'Subtraction',
@@ -95,7 +95,7 @@ h1 {
     answer: 'Subtraction',
   },
   {
-    question:'In basic addition, what symbol is used to denote the operation?',
+    question:'3.In basic addition, what symbol is used to denote the operation?',
     options: [' *',
     '/',
     ' -',
@@ -103,7 +103,7 @@ h1 {
     answer: '+ ',
   },
   {
-    question: ' What is the order of numbers in basic addition?',
+    question: '4. What is the order of numbers in basic addition?',
     options: ['The order does not matter',
     'The larger number is always added first',
     'The smaller number is always added first',
@@ -111,7 +111,7 @@ h1 {
     answer: ' The order does not matter',
   },
   {
-    question: 'Which concept states that adding zero to any number gives the number itself?',
+    question: '5.Which concept states that adding zero to any number gives the number itself?',
     options: [
     'Identity property',
      'Associative property',
@@ -122,7 +122,7 @@ h1 {
     answer: ' Identity property',
   },
   {
-    question: ' How are subtraction and addition represented mathematically?',
+    question: '6. How are subtraction and addition represented mathematically?',
     options: [' Both with a minus sign (-)',
     'Subtraction with a minus sign (-) and addition with a plus sign (+)',
     'Both with a plus sign (+)',
@@ -130,7 +130,7 @@ h1 {
     answer: 'Subtraction with a minus sign (-) and addition with a plus sign (+) ',
   },
   {
-    question: 'What is a practical application of understanding addition and subtraction?',
+    question: '7.What is a practical application of understanding addition and subtraction?',
     options: [ 'Reading digital clocks',
     ' Solving quadratic equations',
     ' Analyzing weather patterns',
@@ -140,7 +140,7 @@ h1 {
     answer: 'Counting money',
   },
   {
-    question: ' In everyday life, what role do numbers play in transportation?',
+    question: '8. In everyday life, what role do numbers play in transportation?',
     options: [' Cooking',
      'Measuring temperature',
      'Navigating bus routes',
@@ -148,7 +148,7 @@ h1 {
     answer: 'Navigating bus routes',
   },
   {
-    question: 'How are numbers used in social media?',
+    question: '9.How are numbers used in social media?',
     options: [
       'Representing blood pressure readings',
        'Indicating online interactions and influence',
@@ -158,7 +158,7 @@ h1 {
     answer: 'Indicating online interactions and influence',
   },
   {
-    question: 'What is the significance of understanding and interpreting numbers in daily life?',
+    question: '10.What is the significance of understanding and interpreting numbers in daily life?',
     options: ['It allows individuals to make informed decisions',
      'It helps in identifying magical creatures',
     'It enhances athletic performance',
