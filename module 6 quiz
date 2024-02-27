@@ -78,27 +78,27 @@ h1 {
       <script>
         const quizData = [
   {
-    question: 'What is the primary focus of “Rhyme Time?',
+    question: '1.What is the primary focus of “Rhyme Time?',
     options: ['Exploring word families', 'Understanding phonetic play ', 'Creating rhythmic patterns in language', 'Studying syntactic voyages'],
     answer: 'Creating rhythmic patterns in language',
   },
   {
-    question: ' Which literary device is prominently highlighted in “Rhyme Time”?',
+    question: '2.Which literary device is prominently highlighted in “Rhyme Time”?',
     options: [' Alliteration ', ' Metaphor', 'Simile', 'Onomatopoeia'],
     answer: 'Alliteration',
   },
   {
-    question: 'What role do adjectives and adverbs play in “Word Family Adventures”?',
+    question: '3.What role do adjectives and adverbs play in “Word Family Adventures”?',
     options: ['Describing characters', 'Propelling the action', 'Enhancing the imagery', 'Anchoring the narrative'],
     answer: ' Enhancing the imagery',
   },
   {
-    question: 'What analogy is drawn between words in “Word Family Adventures”',
+    question: '4.What analogy is drawn between words in “Word Family Adventures”',
     options: ['Synonyms as siblings', 'Verbs as protagonists', 'Nouns as anchors', 'Antonyms as counterparts'],
     answer: 'Synonyms as siblings',
   },
   {
-    question: 'What educational purpose does “Phonics Play Party” serve?',
+    question: '5.What educational purpose does “Phonics Play Party” serve?',
     options: [
       'Encouraging rote learning',
       'Fostering a love for language ',
@@ -108,12 +108,12 @@ h1 {
     answer: ' Fostering a love for language',
   },
   {
-    question: 'How are phonetic landscapes described in “Phonics Play Party”?',
+    question: '6.How are phonetic landscapes described in “Phonics Play Party”?',
     options: ['Static and unchanging', 'Multidimensional and dynamic', ' Linear and predictable', 'Isolated and fragmented'],
     answer: 'Multidimensional and dynamic ',
   },
   {
-    question: 'Which statement best describes the content of “Rhyme Time”?',
+    question: '7.Which statement best describes the content of “Rhyme Time”?',
     options: [
       'Exploring word families through play ',
       'Understanding phonetic patterns in language',
@@ -123,12 +123,12 @@ h1 {
     answer: 'Understanding phonetic patterns in language',
   },
   {
-    question: ' What aspect of language acquisition is emphasized in “Word Family Adventures”?',
+    question: ' 8.What aspect of language acquisition is emphasized in “Word Family Adventures”?',
     options: ['Phonetic discovery', 'Syntactic exploration', 'Morphological analysis', 'Semantic integration '],
     answer: 'Phonetic discovery',
   },
   {
-    question: 'What distinguishes the narrative style in “Rhyme Time” from “Word Family Adventures”?',
+    question: '9.What distinguishes the narrative style in “Rhyme Time” from “Word Family Adventures”?',
     options: [
       ' Rhyming patterns',
       'Descriptive language',
@@ -138,7 +138,7 @@ h1 {
     answer: 'Rhyming patterns',
   },
   {
-    question: 'Which section of the module focuses on interactive learning experiences?',
+    question: '10.Which section of the module focuses on interactive learning experiences?',
     options: ['Rhyme Time ', 'Word Family Adventures', 'Phonics Play Party ', 'None of the above'],
     answer: 'Phonics Play Party',
   },
