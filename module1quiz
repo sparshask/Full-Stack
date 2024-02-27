@@ -78,54 +78,54 @@ h1 {
       <script>
         const quizData = [
   {
-    question: 'What is the primary focus of Alphabet Adventures?',
+    question: '1.What is the primary focus of Alphabet Adventures?',
     options: ['Math skills development' ,'Learning the alphabet in an engaging way' ,'Physical education activities ',' History lessons'],
     answer: 'Learning the alphabet in an engaging way ',
   },
   {
-    question: 'Which activity is NOT suggested for teaching the alphabet in Alphabet Adventures?',
+    question: '2.Which activity is NOT suggested for teaching the alphabet in Alphabet Adventures?',
     options: ['Outdoor Letter Hunt',' Sensory Letter Play', ' Learning multiplication tables', ' Alphabet Flashcards'],
     answer: 'Learning multiplication tables ',
   },
   {
-    question: ' Before delving into phonics, what skill is considered crucial?',
+    question: ' 3.Before delving into phonics, what skill is considered crucial?',
     options: ['Spelling',' Phonemic awareness',' Handwriting', 'Vocabulary building' ],
     answer: 'Phonemic awareness ',
   },
   {
-    question: ' What does phonics instruction primarily focus on teaching? ',
+    question: ' 4.What does phonics instruction primarily focus on teaching? ',
     options: [' Association between letters and their corresponding sounds','Association between colors and shapes', ' Association between words and their definitions','Association between numbers and mathematical operations '],
     answer: 'Association between letters and their corresponding sounds',
   },
   {
-    question: 'What is the purpose of decoding in language learning?',
+    question: '5.What is the purpose of decoding in language learning?',
     options: ['Translating spoken language into written words','Translating written words into spoken language', 'Memorizing vocabulary words', 'Identifying synonyms and antonyms'],
     answer: 'Translating written words into spoken language',
   },
   {
-    question: 'What is the target audience for playful phonics songs?',
+    question: '6.What is the target audience for playful phonics songs?',
     options: ['College students',' Toddlers and preschoolers', ' High school students','Adults learning a new language '],
     answer: 'oddlers and preschoolers ',
   },
   {
-    question: ' What elements are commonly incorporated into playful phonics songs?',
+    question: '7. What elements are commonly incorporated into playful phonics songs?',
     options: ['Boring lectures','Catchy melodies and colorful visuals', ' Advanced mathematical concepts',' Silent reading exercises' 
     ],
     answer: 'Catchy melodies and colorful visuals ',
   },
   {
-    question: 'How do playful phonics songs contribute to language learning ?',
+    question: '8.How do playful phonics songs contribute to language learning ?',
     options: ['By making learning boring and dull', 'By fostering a negative attitude towards learning', 'By making it a joyful journey for young minds', 'By discouraging participation and engagement'],
     anserw:'By making it a joyful journey for young minds ',
   },
   {
-    question:' Which of the following is NOT mentioned as a characteristic of playful phonics songs',
+    question:' 9.Which of the following is NOT mentioned as a characteristic of playful phonics songs',
     options:['Incorporating music and rhythm', 'Using interactive activities within the songs','Focusing solely on advanced grammar rules', ' Making learning enjoyable and engaging'
     ],
     answer: 'Focusing solely on advanced grammar rules',
   },
   {
-    question: 'What is the role of playful phonics songs in fostering a positive attitude towards language learning?',
+    question: '10.What is the role of playful phonics songs in fostering a positive attitude towards language learning?',
     options: ['They have no impact on attitude', 'They make learning a chore', 'They make it a joyful journey for young minds','They discourage participation'],
     answer: 'They make it a joyful journey for young minds',
   },
