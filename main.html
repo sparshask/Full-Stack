@@ -8,6 +8,7 @@
     <title>Beginner's Bash</title>
 </head>
 <body>
+  
      <header>
         <div class="logo">
             <img src="BBlogoWhite.png" alt="Logo">
@@ -16,7 +17,15 @@
         <nav>
             <ul>
                 <li><a href="profile.html">Profile</a></li>
-                <li><a href="App.js">About Us</a></li>
+                <!--<li><a href="aboutUs.html">About Us</a></li>-->
+                <!-- Include React bundle script -->
+    <script src="build/static/js/main.35291f45.js"></script>
+
+    <!-- Container for React app -->
+    <div id="root"></div>
+
+    <!-- Additional HTML content if any -->
+    <a href="/about-us">About Us</a>
                 <li><a href="quizMain.html">Quiz Yourself</a></li>
                 <li class="dropdown">
                     <a href="#">Locations</a>
@@ -59,7 +68,7 @@
         <div class="text"><a href="eight.html">Action Words and Story Expressions</a></div>
       </button>
 
-      <footer style="margin-top: 100px;">
+      <footer style="margin-top: 100px; margin-left: 75px;">
         <div class="social-icons">
             <!-- Twitter -->
             <a href="https://twitter.com/BBash78615" style="color: inherit;">
@@ -105,19 +114,54 @@
         <p>&copy; Beginners Bash</p>
     </footer>
 
+    <div class="snowflakes" aria-hidden="true">
+      <div class="snowflake">
+      ❅
+      </div>
+      <div class="snowflake">
+      ❅
+      </div>
+      <div class="snowflake">
+      ❆
+      </div>
+      <div class="snowflake">
+      ❄
+      </div>
+      <div class="snowflake">
+      ❅
+      </div>
+      <div class="snowflake">
+      ❆
+      </div>
+      <div class="snowflake">
+      ❄
+      </div>
+      <div class="snowflake">
+      ❅
+      </div>
+      <div class="snowflake">
+      ❆
+      </div>
+      <div class="snowflake">
+      ❄
+      </div>
+    </div>
+
     <script>
       function redirectTo(page) {
         window.location.href = page; // Redirects to the specified page
       }
+</script>
 
-      // Get the width and height of the viewport
-var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-var viewportHeight = window.innerHeight || document.documentElement.clientHeight;
-
-// Log the width and height to the console
-console.log("Viewport width: " + viewportWidth);
-console.log("Viewport height: " + viewportHeight);
-    </script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const reactApp = document.getElementById('react-app');
+    const aboutUsComponent = React.createElement(React.lazy(() => import('./about-us-react/build/static/js/main.js')));
+    const root = ReactDOM.createRoot(reactApp);
+    root.render(aboutUsComponent);
+  });
+</script>
+    
 
 </body>
 </html>
