@@ -1,19 +1,12 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #ded4e8;
-    background-image: url('file:///C:/Users/kadab/Downloads/bgImage.jpeg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-
+    background-color: #ffffff;
 }
 
 header {
-    background-color: #ded4e8;
-    color: #c7395f;
+    background-color: #ffffff;
+    color: #d63484;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -46,7 +39,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #c7395f;
+    color: #d63484;
 }
 
 nav .dropdown {
@@ -56,7 +49,7 @@ nav .dropdown {
 nav .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #c7395f;
+    background-color: #d63484;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     z-index: 1;
 }
@@ -64,7 +57,8 @@ nav .dropdown-content {
 nav .dropdown-content li {
     padding: 10px;
     text-align: left;
-    color: black;
+    color: white;
+    text-decoration: underline;
 }
 
 nav .dropdown-content li a {
@@ -81,7 +75,7 @@ nav .dropdown:hover .dropdown-content {
   padding-bottom: 50px;
   padding-left: 50px;
   padding-right: 50px;
-  color: #c7395f;
+  color: #d63484;
 }
 
 a{
@@ -132,7 +126,7 @@ a{
 /* FOOTER */
 
 footer {
-    background-color: #ded4e8;
+    background-color: #ffffff;
     color: black;
     padding: 20px;
     text-align: center;
