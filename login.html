@@ -1,153 +1,137 @@
-<!DOCTYPE html>
-<html>
-<style>
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f8f4ec;
+/* Importing fonts from Google */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* Reseting */
+* {
     margin: 0;
     padding: 0;
-   align-items: center;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
-header {
-    background-color: #f8f4ec;
-    color: #d63484;
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: sticky;
-    top: 0; /* Set a value for top to make it sticky */
-    z-index: 100; /* Set a higher z-index to make it appear above other elements */
+body {
+    background: #ffffff;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-size: 300% 300%;
+        background-image: linear-gradient(-45deg, #ffffff 0%, #ffffff 25%, #ffffff 51%, #d63484 100%);
+        -webkit-animation: AnimateBG 20s ease infinite;
+                animation: AnimateBG 20s ease infinite;
+      }
+      
+      @-webkit-keyframes AnimateBG {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+      
+      @keyframes AnimateBG {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+.wrapper {
+    max-width: 350px;
+    min-height: 500px;
+    margin: 80px auto;
+    padding: 40px 30px 30px 30px;
+    background-color: #ecf0f3;
+    border-radius: 15px;
+    /**box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #ffffff; **/
 }
+
 .logo {
-    display: flex;
-    align-items: center;
+    width: 80px;
+    margin: auto;
 }
 
 .logo img {
-    width: 80px; /* Adjust the size of your logo */
-    margin-right: 10px;
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px #5f5f5f,
+        0px 0px 0px 5px #ecf0f3,
+        8px 8px 15px #a7aaa7,
+        -8px -8px 15px #fff;
 }
 
-
-
-/* Full-width input fields */
-input[type=text], input[type=password] {
-  width: 95%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
+.wrapper .name {
+    font-weight: 600;
+    font-size: 1.4rem;
+    letter-spacing: 1.3px;
+    padding-left: 10px;
+    color: #555;
 }
 
-input[type=text]:focus, input[type=password]:focus {
-  background-color: #ddd;
-  outline: none;
+.wrapper .form-field input {
+    width: 100%;
+    display: block;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 1.2rem;
+    color: #666;
+    padding: 10px 15px 10px 10px;
+    /* border: 1px solid red; */
 }
 
-hr {
-  border: 1px solid #f1f1f1;
-  margin-bottom: 25px;
+.wrapper .form-field {
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: inset 8px 8px 8px #cbced1, inset -8px -8px 8px #fff;
 }
 
-/* Set a style for all buttons */
-button {
-  background-color: white;
-  color: black;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
+.wrapper .form-field .fas {
+    color: #555;
 }
 
-button:hover {
-  opacity:1;
-}
-
-.signupbtn {
-  margin-left: 150px;
-  width: 50%;
-}
-
-/* Add padding to container elements */
-.container {
+.wrapper .btn {
+    box-shadow: none;
+    width: 100%;
+    height: 40px;
     background-color: #d63484;
-            padding-top: 5px;
-            padding-left: 20px;
-            padding-right: 20px;
-            padding-bottom: 0;
-            border-radius: 8px;
-            /*box-shadow: 0 0 20px #c7395f;*/
-            margin-top: 20px;
-            width: 600px; /* Adjust maximum width as needed */
-            height: 450px;
-            margin-left: 350px;
-            border: none;
-           margin-bottom: 30px;
+    color: #fff;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px #b1b1b1,
+        -3px -3px 3px #fff;
+    letter-spacing: 1.3px;
 }
 
-/* Clear floats */
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
- 
+.wrapper .btn:hover {
+    background-color: #fc037f;
 }
 
-/* Change styles for cancel button and signup button on extra small screens */
-@media screen and (max-width: 300px) {
-  .signupbtn {
-     width: 100%;
-  }
+.wrapper a {
+    text-decoration: none;
+    font-size: 0.8rem;
+    color: #03A9F4;
 }
 
-h2{
-    text-align: center;
+.wrapper a:hover {
+    color: #039BE5;
 }
 
-p{
-    text-align: center;
+@media(max-width: 380px) {
+    .wrapper {
+        margin: 30px 20px;
+        padding: 40px 15px 15px 15px;
+    }
 }
-
-
-
-</style>
-<body>
-
-  <header>
-    <div class="logo">
-        <img src="c:\Users\kadab\Downloads\logoFinal.jpeg" alt="Logo">
-        <h1>Beginner's Bash</h1>
-    </div>
-    </header>
-
-<form action="SideMain.html" method="POST">
-  <div class="container">
-    <h2>Sign In</h2>
-    <p>Enter your username and password to access your account.</p>
-    <hr>
-
-    <label for="username"><b>Username</b></label>
-    <input type="text" placeholder="Enter username" name="username" required>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
-    
-    <div class="clearfix">
-      <button type="submit" class="signupbtn">Sign In</button>
-    </div>
-
-    <!-- Links for Sign Up and Forgot Password -->
-    <p>
-        <a href="signup.html">Sign Up</a> |
-        <a href="forgot_password.html">Forgot Password?</a>
-    </p>
-  </div>
-</form>
-
-</body>
-</html>
