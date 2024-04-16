@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+        body {
+          font-family: 'Poppins', sans-serif;
+          background: rgba(249, 187, 230);
+          display: flex;
+          justify-content: center;
+        }
+
+        .container {
+          width: 450px;
+          padding: 20px;
+          margin-top: 80px;
+          background-color: #fff;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          border-radius: 20px;
+        }
+
+        h1 {
+          text-align: center;
+        }
+
+        .question {
+          font-weight: bold;
+          margin-bottom: 10px;
+        }
+
+        .options {
+          margin-bottom: 20px;
+        }
+
+        .option {
+          display: block;
+          margin-bottom: 10px;
+        }
+
+        .button {
+          display: inline-block;
+          padding: 10px 20px;
+          background-color: #428bca;
+          color: #fff;
+          border: none;
+          cursor: pointer;
+          font-size: 16px;
+          border-radius: 4px;
+          transition: background-color 0.3s;
+          margin-right: 10px;
+        }
+
+        .button:hover {
+          background-color: #3071a9;
+        }
+
+        .result {
+          text-align: center;
+          margin-top: 20px;
+          font-weight: bold;
+        }
+
+        .hide{
+          display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz</h1>
+        <div id="quiz"></div>
+        <div id="result" class="result"></div>
+        <button id="submit" class="button">Submit</button>
+        <button id="retry" class="button hide">Retry</button>
+        <button id="showAnswer" class="button hide">Show Answer</button>
+      </div>
+
+      <script>
+        const quizData = [
+  {
+    question: 'Q1.What is the main focus of the "Artistic Exploration" section?',
+    
+    options: ['Learning basic arithmetic',
+    'Exploring magical environments',
+     'DIY home decor projects',
+     'Sewing and embroidery techniques'],
+    answer: 'Exploring magical environments',
+  },
+  {
+    question: 'Q2.What is the primary emphasis of "Crafty Creation"?',
+    options: ['Cooking recipes',
+     'Navigating bus routes',
+    'Making imaginative projects',
+     'Studying historical events'],
+    answer: 'Making imaginative projects',
+  },
+  {
+    question:'Q3.What is a characteristic of crafty creation mentioned in the content?',
+    options: ['Playing musical instruments',
+    'Digital animation techniques',
+    'Creating unique handmade items',
+    'Abstract painting styles'
+     ],
+    answer: 'Creating unique handmade items',
+  },
+  {
+    question: 'Q4. In the "Introduction to Basic Writing" section, what is compared to a punctuation party?',
+    options: ['Meeting the ABC superheroes',
+    'Building paragraph castles',
+    'Learning grammar adventures',
+    'Scribbling and doodling'],
+    answer: 'Learning grammar adventures',
+  },
+  {
+    question: 'Q5.According to the content, what are sentences compared to?',
+    options: [
+    'Magical spells',
+     'Building blocks',
+     'Punctuation pals',
+    'Storytelling wizards',
+    
+    ],
+    answer: 'Magical spells',
+  },
+  {
+    question: 'Q6.Which section encourages starting with scribbles and doodles?',
+    options: [' Introduction to Basic Writing',
+    'Crafty Creation',
+    'Artistic Exploration',
+    'None of the above'],
+    answer: 'Introduction to Basic Writing',
+  },
+  {
+    question: 'Q7.What is emphasized as an important aspect of crafting with kids?',
+    options: [ 'Working alone on projects',
+    'Using only digital tools',
+    'Exploring creativity',
+    'Following strict rules',
+    
+
+    ],
+    answer: 'Exploring creativity',
+  },
+  {
+    question: 'Q8.What is described as the first steps in becoming an awesome writer?',
+    options: ['  Learning grammar rules',
+    ' Scribbling and doodling',
+    'Using punctuation marks',
+    ' Memorizing the alphabet'],
+    answer: 'Scribbling and doodling',
+  },
+  {
+    question: 'Q9.Which activity is NOT mentioned as a way to inspire artistic exploration in children??',
+    options: [
+      'Nature art',
+      'Storybook illustrations',
+      'Science experiments',
+      'Found object sculptures',
+    ],
+    answer: 'Science experiments',
+  },
+  {
+    question: 'Q10.What is the purpose of the "Introduction to Basic Writing" section?',
+    options: [' Exploring different painting techniques',
+    'Learning advanced mathematical concepts',
+    'Starting the journey of creative writing',
+    'Studying historical literature',
+    
+    ],
+    answer: 'Starting the journey of creative writing',
+  },
+];
+
+const quizContainer = document.getElementById('quiz');
+const resultContainer = document.getElementById('result');
+const submitButton = document.getElementById('submit');
+const retryButton = document.getElementById('retry');
+const showAnswerButton = document.getElementById('showAnswer');
+
+let currentQuestion = 0;
+let score = 0;
+let incorrectAnswers = [];
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function displayQuestion() {
+  const questionData = quizData[currentQuestion];
+
+  const questionElement = document.createElement('div');
+  questionElement.className = 'question';
+  questionElement.innerHTML = questionData.question;
+
+  const optionsElement = document.createElement('div');
+  optionsElement.className = 'options';
+
+  const shuffledOptions = [...questionData.options];
+  shuffleArray(shuffledOptions);
+
+  for (let i = 0; i < shuffledOptions.length; i++) {
+    const option = document.createElement('label');
+    option.className = 'option';
+
+    const radio = document.createElement('input');
+    radio.type = 'radio';
+    radio.name = 'quiz';
+    radio.value = shuffledOptions[i];
+
+    const optionText = document.createTextNode(shuffledOptions[i]);
+
+    option.appendChild(radio);
+    option.appendChild(optionText);
+    optionsElement.appendChild(option);
+  }
+
+  quizContainer.innerHTML = '';
+  quizContainer.appendChild(questionElement);
+  quizContainer.appendChild(optionsElement);
+}
+
+function checkAnswer() {
+  const selectedOption = document.querySelector('input[name="quiz"]:checked');
+  if (selectedOption) {
+    const answer = selectedOption.value;
+    console.log('Selected Answer:', answer);
+    console.log('Correct Answer:', quizData[currentQuestion].answer);
+    if (answer === quizData[currentQuestion].answer) {
+      score++;
+    } else {
+      incorrectAnswers.push({
+        question: quizData[currentQuestion].question,
+        incorrectAnswer: answer,
+        correctAnswer: quizData[currentQuestion].answer,
+      });
+    }
+    currentQuestion++;
+    selectedOption.checked = false;
+    if (currentQuestion < quizData.length) {
+      displayQuestion();
+    } else {
+      displayResult();
+    }
+  }
+}
+
+function displayResult() {
+  quizContainer.style.display = 'none';
+  submitButton.style.display = 'none';
+  retryButton.style.display = 'inline-block';
+  showAnswerButton.style.display = 'inline-block';
+  resultContainer.innerHTML = `You scored ${score} out of ${quizData.length}!`;
+}
+
+function retryQuiz() {
+  currentQuestion = 0;
+  score = 0;
+  incorrectAnswers = [];
+  quizContainer.style.display = 'block';
+  submitButton.style.display = 'inline-block';
+  retryButton.style.display = 'none';
+  showAnswerButton.style.display = 'none';
+  resultContainer.innerHTML = '';
+  displayQuestion();
+}
+
+function showAnswer() {
+  quizContainer.style.display = 'none';
+  submitButton.style.display = 'none';
+  retryButton.style.display = 'inline-block';
+  showAnswerButton.style.display = 'none';
+
+  let incorrectAnswersHtml = '';
+  for (let i = 0; i < incorrectAnswers.length; i++) {
+    incorrectAnswersHtml += `
+      <p>
+        <strong>Question:</strong> ${incorrectAnswers[i].question}<br>
+        <strong>Your Answer:</strong> ${incorrectAnswers[i].incorrectAnswer}<br>
+        <strong>Correct Answer:</strong> ${incorrectAnswers[i].correctAnswer}
+      </p>
+    `;
+  }
+
+  resultContainer.innerHTML = `
+    <p>You scored ${score} out of ${quizData.length}!</p>
+    <p>Incorrect Answers:</p>
+    ${incorrectAnswersHtml}
+  `;
+}
+
+submitButton.addEventListener('click', checkAnswer);
+retryButton.addEventListener('click', retryQuiz);
+showAnswerButton.addEventListener('click', showAnswer);
+
+displayQuestion();
+      </script>
+</body>
+</html>
